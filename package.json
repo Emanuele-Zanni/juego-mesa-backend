@@ -8,6 +8,11 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "pg": "^8.13.1",
     "ws": "^8.18.0"
   }
 }

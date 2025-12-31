@@ -1,0 +1,122 @@
+[
+  {
+    "level": 1,
+    "xp_to_reach": 0,
+    "rewards": { "coins": 0 },
+    "unlocks": []
+  },
+  {
+    "level": 2,
+    "xp_to_reach": 100,
+    "rewards": { "coins": 50 },
+    "unlocks": []
+  },
+  {
+    "level": 3,
+    "xp_to_reach": 250,
+    "rewards": { "coins": 75 },
+    "unlocks": []
+  },
+  {
+    "level": 4,
+    "xp_to_reach": 450,
+    "rewards": { "coins": 100 },
+    "unlocks": []
+  },
+  {
+    "level": 5,
+    "xp_to_reach": 700,
+    "rewards": { "coins": 150 },
+    "unlocks": ["map:desert-ruins"]
+  },
+  {
+    "level": 6,
+    "xp_to_reach": 1000,
+    "rewards": { "coins": 175 },
+    "unlocks": []
+  },
+  {
+    "level": 7,
+    "xp_to_reach": 1400,
+    "rewards": { "coins": 200 },
+    "unlocks": []
+  },
+  {
+    "level": 8,
+    "xp_to_reach": 1900,
+    "rewards": { "coins": 225 },
+    "unlocks": []
+  },
+  {
+    "level": 9,
+    "xp_to_reach": 2500,
+    "rewards": { "coins": 250 },
+    "unlocks": ["mode:ranked-beta"]
+  },
+  {
+    "level": 10,
+    "xp_to_reach": 3200,
+    "rewards": { "coins": 300 },
+    "unlocks": []
+  },
+  {
+    "level": 11,
+    "xp_to_reach": 4000,
+    "rewards": { "coins": 325 },
+    "unlocks": []
+  },
+  {
+    "level": 12,
+    "xp_to_reach": 4900,
+    "rewards": { "coins": 350 },
+    "unlocks": []
+  },
+  {
+    "level": 13,
+    "xp_to_reach": 5900,
+    "rewards": { "coins": 375 },
+    "unlocks": []
+  },
+  {
+    "level": 14,
+    "xp_to_reach": 7000,
+    "rewards": { "coins": 425 },
+    "unlocks": ["map:frozen-peaks"]
+  },
+  {
+    "level": 15,
+    "xp_to_reach": 8200,
+    "rewards": { "coins": 450 },
+    "unlocks": []
+  },
+  {
+    "level": 16,
+    "xp_to_reach": 9500,
+    "rewards": { "coins": 500 },
+    "unlocks": []
+  },
+  {
+    "level": 17,
+    "xp_to_reach": 10900,
+    "rewards": { "coins": 525 },
+    "unlocks": []
+  },
+  {
+    "level": 18,
+    "xp_to_reach": 12400,
+    "rewards": { "coins": 575 },
+    "unlocks": []
+  },
+  {
+    "level": 19,
+    "xp_to_reach": 14000,
+    "rewards": { "coins": 600 },
+    "unlocks": ["mode:raid"]
+  },
+  {
+    "level": 20,
+    "xp_to_reach": 15700,
+    "rewards": { "coins": 700 },
+    "unlocks": []
+  }
+]
